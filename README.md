@@ -149,4 +149,3 @@ The application will be securely deployed in a Docker container on AWS infrastru
 
 
 # Terraform_scripts_swiggy
-# Terraform_scripts_swiggy
